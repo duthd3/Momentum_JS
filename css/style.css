@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+}
+
+.hidden{
+    display:none;
+}
+#weather span:last-child{
+    color:orange;
+}
